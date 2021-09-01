@@ -50,11 +50,11 @@ body {
 	text-align: center;
 }
 a:link {
-     color: #000000;
+     color: #F3EDCC;
 }
 a:visited {
-     color: #000;
+     color: #F3EDCC;
 }
 a:hover, a:active, a:focus { 
-     text-decoration: underline;
+     text-decoration: bold;
 }
