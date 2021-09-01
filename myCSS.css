@@ -5,17 +5,17 @@ body {
      	background-color: #98B5B1;
      	margin: 0;
      	padding: 0;
-     	color: #000;
+     	color: #838AA8;
 }
 .homePage {
-	background: #98B5B1;
+	background: #B3BFF5;
 }
 .container {
 	width: 960px;
 	margin: 0 auto;
 }
 .header {
-	background: #637573;
+	background: #A162A8;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
@@ -25,7 +25,7 @@ body {
 	
 }
 .nav {
-	background: #B8DBD7;
+	background: #B3BFF5;
 	margin: 0px;
 	padding: 5;
 	float: left;
@@ -34,7 +34,7 @@ body {
 	text-align: center;
 }
 .content {
-	background: #EEEEEE;
+	background: #B3BFF5;
 	margin: 0px;
 	float: left;
 	width: 100%;
@@ -42,7 +42,7 @@ body {
 	text-align: center;
 }
 .footer {
-	background: #637573;
+	background: #A162A8;
 	margin: 0px;
 	float: left;
 	width: 100%;
