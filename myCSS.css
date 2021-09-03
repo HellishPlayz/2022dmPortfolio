@@ -18,16 +18,18 @@ body {
 	background: #838AA8;
 	text-align: center;
 	margin: 0px;
-	padding: 5;
+	padding: 14px 16px;
 	float: left;
 	width: 100%;
 	height: 80px;
+	display: block;
+	
 	
 }
 .nav {
 	background: #B3BFF5;
 	margin: 0px;
-	padding: 5;
+	padding: 0;
 	float: left;
 	width: 100%;
 	height: 60px;
