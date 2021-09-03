@@ -23,6 +23,7 @@ body {
 	width: 50%;
 	height: 60px;
 	border-radius: 30px;
+	vertical-align: middle;
 	
 }
 .nav {
