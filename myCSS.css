@@ -18,9 +18,9 @@ body {
 	background: #838AA8;
 	text-align: center;
 	margin: 0px;
-	padding: 150px;
+	padding: 0;
 	float: left;
-	width: 100%;
+	width: 50%;
 	height: 60px;
 	border-radius: 15px 50px;
 	
@@ -30,7 +30,7 @@ body {
 	margin: 0px;
 	padding: 0;
 	float: left;
-	width: 100%;
+	width: 50%;
 	height: 60px;
 	text-align: center;
 	border-radius: 15px 50px;
