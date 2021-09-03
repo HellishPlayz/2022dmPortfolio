@@ -2,10 +2,10 @@
 /* This is a comment! Text here will be ignored by the browser. */
 body {
 	font: 100%/1.4 American Typewriter, serif; 
-     	background-color: #F3EDCC;
+     	background-color: #ffffff;
      	margin: 0;
      	padding: 0;
-     	color: #ffffff;
+     	color: #000000;
 	text-align: center;
 }
 .homePage {
@@ -28,7 +28,7 @@ body {
 	
 }
 .nav {
-	background: #B3FBEB;
+	background: #9FE0D2;
 	margin: 0px;
 	padding: 0;
 	float: left;
@@ -46,7 +46,7 @@ body {
 	text-align: center;
 }
 .footer {
-	background: #B3FBEB;
+	background: #9FE0D2;
 	margin: 0px;
 	float: left;
 	width: 100%;
