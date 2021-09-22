@@ -54,10 +54,10 @@ body {
 	border-radius: 20px 50px;
 }
 a:link {
-     color: #000000;
+     color: #ffffff;
 }
 a:visited {
-     color: #000000;
+     color: #ffffff;
 }
 a:hover, a:active, a:focus { 
      text-decoration: bold;
