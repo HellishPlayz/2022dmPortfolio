@@ -44,6 +44,7 @@ body {
 	width: 100%;
 	text-align: center;
 	color: #000000;
+	color: var(--white);
 }
 .footer {
 	background: #9FE0D2;
