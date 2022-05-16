@@ -62,10 +62,10 @@ a:visited {
 	border-radius: 20px 50px;
 }
 a:link {
-     color: #ffffff;
+     color: #000000;
 }
 a:visited {
-     color: #ffffff;
+     color: #000000;
 }
 a:hover, a:active, a:focus { 
      text-decoration: bold;
